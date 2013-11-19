@@ -1,0 +1,7 @@
+c:\users\eahscs\documents\visual studio 2010\Projects\PizzaGuy\PizzaGuy\PizzaGuy\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\eahscs\documents\visual studio 2010\Projects\PizzaGuy\PizzaGuy\PizzaGuy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\eahscs\documents\visual studio 2010\Projects\PizzaGuy\PizzaGuy\PizzaGuy\bin\x86\Debug\Content\SpriteSheet.xnb
+c:\users\eahscs\documents\visual studio 2010\Projects\PizzaGuy\PizzaGuy\PizzaGuy\bin\x86\Debug\PizzaGuy.exe
+c:\users\eahscs\documents\visual studio 2010\Projects\PizzaGuy\PizzaGuy\PizzaGuy\bin\x86\Debug\PizzaGuy.pdb
+c:\users\eahscs\documents\visual studio 2010\Projects\PizzaGuy\PizzaGuy\PizzaGuy\obj\x86\Debug\PizzaGuy.exe
+c:\users\eahscs\documents\visual studio 2010\Projects\PizzaGuy\PizzaGuy\PizzaGuy\obj\x86\Debug\PizzaGuy.pdb
